@@ -1,0 +1,6 @@
+/home/jz36/work/bro/GraphicsEditor/ConsoleUI/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jz36/work/bro/GraphicsEditor/ConsoleUI/bin/Debug/ConsoleUI.dll.config
+/home/jz36/work/bro/GraphicsEditor/ConsoleUI/bin/Debug/ConsoleUI.dll.mdb
+/home/jz36/work/bro/GraphicsEditor/ConsoleUI/bin/Debug/ConsoleUI.dll
+/home/jz36/work/bro/GraphicsEditor/ConsoleUI/obj/Debug/ConsoleUI.dll
+/home/jz36/work/bro/GraphicsEditor/ConsoleUI/obj/Debug/ConsoleUI.dll.mdb

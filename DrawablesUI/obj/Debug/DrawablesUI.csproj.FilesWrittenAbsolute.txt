@@ -1,0 +1,5 @@
+/home/jz36/work/bro/GraphicsEditor/DrawablesUI/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jz36/work/bro/GraphicsEditor/DrawablesUI/bin/Debug/DrawablesUI.dll.mdb
+/home/jz36/work/bro/GraphicsEditor/DrawablesUI/bin/Debug/DrawablesUI.dll
+/home/jz36/work/bro/GraphicsEditor/DrawablesUI/obj/Debug/DrawablesUI.dll
+/home/jz36/work/bro/GraphicsEditor/DrawablesUI/obj/Debug/DrawablesUI.dll.mdb
